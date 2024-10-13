@@ -1,8 +1,4 @@
-<a name="readme-top"></a>
 
-  <h3><b>Adult-Tech-solution</b></h3>
-
-</div>
 
 # 📗 Table of Contents
 
@@ -24,7 +20,7 @@
 
 # 📖 Adult-Tech-Solution <a name="about-project"></a>
 
-**Adult-Tech-Solution is an idea of empowering of learned and experienced programmers of Adults**
+**Adult-Tech-Solution is an idea of empowering of learned and experienced Adults in different sectors to make them experienced on work environment and to live happy life**
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -45,8 +41,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **learning adults of programming**
-- **to empower of learned and experienced developers**
+- **learning adult short and long term skills**
+- **to make them efficient and effective in their life**
+- **adults get job in different sectors**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

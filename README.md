@@ -75,7 +75,7 @@ https://github.com/esmaelhussen/Adult-tech-solution.git
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author1**
+👤 **Esmael Hussen**
 
 - GitHub: [click-here](https://github.com/esmaelhussen)
 - Twitter: [click-here](www.twitter.com/esmaelhussenA)
